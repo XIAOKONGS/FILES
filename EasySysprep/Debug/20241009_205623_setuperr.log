@@ -1,0 +1,6 @@
+﻿2024-10-09 20:55:48, Error      [0x0f0082] SYSPRP LaunchDll:Failure occurred while executing 'drmv2clt.dll,Sysprep', returned error code -2147024864[gle=0x00000020]
+2024-10-09 20:55:48, Error      [0x0f0070] SYSPRP RunExternalDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = -2147024864[gle=0x00000020]
+2024-10-09 20:55:48, Error      [0x0f00a8] SYSPRP WinMain:Hit failure while processing sysprep cleanup providers; hr = 0x80070020[gle=0x00000020]
+2024-10-09 20:56:23, Error      [0x0f0082] SYSPRP LaunchDll:Failure occurred while executing 'drmv2clt.dll,Sysprep', returned error code -2147024864[gle=0x00000020]
+2024-10-09 20:56:23, Error      [0x0f0070] SYSPRP RunExternalDlls:An error occurred while running registry sysprep DLLs, halting sysprep execution. dwRet = -2147024864[gle=0x00000020]
+2024-10-09 20:56:23, Error      [0x0f00a8] SYSPRP WinMain:Hit failure while processing sysprep cleanup providers; hr = 0x80070020[gle=0x00000020]
